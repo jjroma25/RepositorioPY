@@ -17,3 +17,6 @@ print ('resta =', resta)
 
 multiplicacion = numero_uno * numero_dos
 print ('multiplicacion =', multiplicacion)
+
+divicion = numero_uno / numero_dos
+print (' divicion  =', divicion)
